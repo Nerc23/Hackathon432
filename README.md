@@ -6,3 +6,5 @@ Deployed with lovable:
 ' https://study-buddy-ai-47.lovable.app/' 
 
 Will deploy again with Bolt.new
+
+Used Claude Ai to generate PRD 
